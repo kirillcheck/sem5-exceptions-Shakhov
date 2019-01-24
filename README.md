@@ -1,1 +1,2 @@
-# sem5-exceptions-Shakhov
+# sem5-exceptions
+Самостоятельная работа (ИСР, ВСР)
